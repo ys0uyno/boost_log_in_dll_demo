@@ -1,0 +1,5 @@
+LIBRARY
+
+EXPORTS
+    dll0_func0
+    dll0_func1
